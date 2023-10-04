@@ -1,0 +1,40 @@
+h1 {
+    color: #d60a0a;
+    font-size: 30px;
+    background-color: rgb(218, 205, 21);
+}
+
+h2 {
+    color: #d60a0a;
+    font-size: 30px;
+    background-color: rgb(218, 205, 21);
+} 
+
+
+td {
+    color: rgba(8, 10, 1, 0.749);
+    font-size:25px;
+}
+
+th {
+    color:rgb(9, 19, 10);
+    font-size:25px;
+}
+
+ol{
+    color:rgba(11, 3, 19, 0.738);
+    font-size: 25px;
+}
+ul{
+    color:rgb(56, 17, 92);
+    font-size: 25px;
+}
+
+d{
+    color:blueviolet;
+    font-size: 25px;
+}
+
+a{
+    colour:rgb(116, 3, 3)
+}
